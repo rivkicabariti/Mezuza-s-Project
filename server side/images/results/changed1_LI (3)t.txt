@@ -1,0 +1,38 @@
+﻿The Results:
+
+line1:
+   letter 6: you wrote ת instead of ר 
+line2:
+   letter 21: the letters are probably stuck together instead of פ נ 
+line3:
+   letter 29: the letters are probably stuck together instead of ך ב  
+line4:
+   letter 17: the letters are probably stuck together instead of ך ת 
+   letter 30: you wrote the letter ז its spare letter 
+line5:
+   letter 30: you wrote ץ instead of י 
+   letter 31: you missed out the letter ו 
+line6:
+   letter 3: you wrote ז instead of ן 
+   letter 10: the letters are probably stuck together instead of ת כ 
+line7:
+   letter 14: you missed out the letter ו 
+line9:
+   letter 24: the letters are probably stuck together instead of ר ט 
+line10:
+   letter 14: the letters are probably stuck together instead of פ ס 
+   letter 30: you wrote ד instead of ר 
+line15:
+   letter 23: you wrote ה instead of ר 
+   letter 30: the letters are probably stuck together instead of ן ת 
+line16:
+   letter 5: you wrote ס instead of ם 
+   letter 25: the letters are probably stuck together instead of פ נ 
+line19:
+   letter 8: the letters are probably stuck together instead of ב כ 
+   letter 17: the letters are probably stuck together instead of כ ו 
+line22:
+   letter 5: you wrote ד instead of ר 
+
+
+Not sure the letters are separated: All the letters that come after ל

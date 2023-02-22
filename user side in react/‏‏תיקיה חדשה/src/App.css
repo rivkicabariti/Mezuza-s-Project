@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+
+.App-header {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+/* Upload */
+.uploadPicturesWrapper div {
+  justify-content: flex-start !important;
+}
+
+.uploadPictureContainer {
+  width: 200px !important;
+  height: auto !important;
+  margin: 2% 5% !important;
+  padding: 10px !important;
+}
+
+.uploadPictureContainer img {
+  height: 200px !important;
+}
+/* .upload{
+  background-color:rgb(24, 5, 46);
+} */
+
+body{
+background-image: url("../public/k.png");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-blend-mode: darken;
+}
+
+
+.download .upload{
+  display: block;
+}
+
+
+
+
